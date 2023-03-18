@@ -1,4 +1,6 @@
-### Hi there 👋
+###                                                                                Hi skiddie 👋
+Hello! My name is **Naveen** and I am a DevOps⚙️ enthusiast. I have a keen interest in augumented reality , web developemnt  ,andriod developemnt. I am currently learning and experimenting with various web technologies, with the goal of improving the software development and deployment process🤖.
+
 
 <!--
 **NaveenSiva72/NaveenSiva72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
